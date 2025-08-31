@@ -1,5 +1,6 @@
 
-using MiProyectoApi.Models;
+
+using PruebaTecnicaBack.domain.entities;
 using PruebaTecnicaBack.infrastructure.repositories;
 
 namespace PruebaTecnicaBack.application.repositories;

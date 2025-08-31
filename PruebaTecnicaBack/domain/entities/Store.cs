@@ -1,7 +1,8 @@
 using System;
-using IDSLatam.Common.Core.Base;
+using PruebaTecnicaBack.domain.baseD;
 
-namespace MiProyectoApi.Models
+
+namespace PruebaTecnicaBack.domain.entities
 {
     public class Store:EntityBase
     {

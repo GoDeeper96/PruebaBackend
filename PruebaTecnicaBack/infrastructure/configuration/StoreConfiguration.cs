@@ -1,7 +1,8 @@
 
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using MiProyectoApi.Models;
+using PruebaTecnicaBack.domain.entities;
+
 
 namespace PruebaTecnicaBack.infrastructure.configuration
 {

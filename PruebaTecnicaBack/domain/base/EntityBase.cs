@@ -1,5 +1,5 @@
 using System;
-namespace IDSLatam.Common.Core.Base
+namespace PruebaTecnicaBack.domain.baseD
 {
     public abstract class EntityBase
     {

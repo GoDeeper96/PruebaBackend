@@ -4,10 +4,11 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-using IDSLatam.Common.Core.Base;
+
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
 using PruebaTecnicaBack.application.helpers;
+using PruebaTecnicaBack.domain.baseD;
 
 namespace PruebaTecnicaBack.infrastructure.repositories
 {

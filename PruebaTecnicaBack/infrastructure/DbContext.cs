@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using MiProyectoApi.Models;
+using PruebaTecnicaBack.domain.entities;
 using PruebaTecnicaBack.infrastructure.configuration;
 
 namespace PruebaTecnicaBack.infrastructure

@@ -1,8 +1,9 @@
 
 
 using Microsoft.EntityFrameworkCore;
-using MiProyectoApi.Models;
+
 using PruebaTecnicaBack.application.repositories;
+using PruebaTecnicaBack.domain.entities;
 
 namespace PruebaTecnicaBack.infrastructure.repositories
 {
